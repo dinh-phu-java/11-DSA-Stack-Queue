@@ -8,6 +8,6 @@ public class QueueClient {
         queue.enqueue(67);
         queue.dequeue();
         queue.dequeue();
-        
+
     }
 }
